@@ -1,0 +1,2 @@
+# AnimeWallpaper
+Ehhm. Yes, what can I say now? It's a "simple" program that I wrote in about 2 hours. However, I think it's cool and that's why I'm uploading it. You can enter a random anime name (e.g. Erased, Naruto, ...) and suddenly Windows has this anime as background? Magic? Yes. Or ... No it isn't. I am not a magician, but a genius (which is similar but not the same). Look at the manual (Why ever you need one there .___.) and STUN. Well, the engine is not that impressive.    Translated with www.DeepL.com/Translator (free version)
