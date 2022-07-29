@@ -1,4 +1,12 @@
+<h1 align="center">AnimeWallpaper - Don't ask me why!</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Fidode07/AnimeWallpaper/main/src/logo.ico"/>
+</p>
+<br><br>
+
 # 🖥️ AnimeWallpaper 🖥️
+
 Ehhm. Yes, what can I say now? It's a "simple" program that I wrote in about 2 hours. However, I think it's cool and that's why I'm uploading it. You can enter a random anime name (e.g. Erased, Naruto, ...) and suddenly Windows has this anime as background? Magic? Yes. Or ... No it isn't. I am not a magician, but a genius (which is similar but not the same). Look at the manual (Why ever you need one there .___.) and STUN. Well, the engine is not that impressive.
 
 # ⛏️ Features ⛏️
