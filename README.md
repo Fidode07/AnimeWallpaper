@@ -14,7 +14,7 @@ Ehhm. Yes, what can I say now? It's a "simple" program that I wrote in about 2 h
 - UI. Others would just give you a script and say "do your input there", I wrote a small UI (See pictures)
 - Selection between Scene and Cover. You can choose if you want a random scene or the cover from the anime.
 
-# 📱 upported systems 📱
+# 📱 Supported Systems 📱
 Currently, the app only supports Windows. But this might change in the future.
 
 # 🏃 Usage 🏃
