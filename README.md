@@ -32,4 +32,11 @@ Sometimes instead of "pip" it is "pip3" and instead of "python" it is sometimes 
 Sure, it's built in. But if you have a new monitor connected, you have to restart the engine first.  If you started the engine in CMD you can just close CMD and do the usage steps again. If you started with an .exe, there is an icon in the taskbar (you can see what it looks like below). Make a right click and press "Exit ...".
 
 # 🖼️ Images 🖼️
-Here you have a few pictures
+<h1>First Boot</h1>
+<img src="https://raw.githubusercontent.com/Fidode07/ImageHost/main/AnimeWallpaper/select.png" alt="startscreen image"/>
+<br><br>
+<h1>Style of UI</h1>
+<img src="https://raw.githubusercontent.com/Fidode07/ImageHost/main/AnimeWallpaper/ui.png" alt="Image of the UI"/>
+
+# 🎥 In Usage 🎥
+<img src="https://github.com/Fidode07/ImageHost/blob/main/AnimeWallpaper/usage.gif?raw=true"/>
