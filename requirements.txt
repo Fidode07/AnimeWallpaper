@@ -1,0 +1,7 @@
+requests==2.25.1
+bs4==0.0.1
+beautifulsoup4==4.9.3
+pystray==0.19.4
+Pillow==9.1.1
+pywebview==3.6.3
+screeninfo==0.8
